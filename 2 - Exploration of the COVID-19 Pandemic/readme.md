@@ -1,5 +1,4 @@
 # Exploration of the COVID-19 Pandemic
-## by Krishna Nadoor
 
 ## Project Overview
 I wanted to explore how COVID-19 was impacting different countries and explore which anti-pandemic efforts have been effective in curbing its spread.

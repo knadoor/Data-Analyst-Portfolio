@@ -1,13 +1,11 @@
-# Exploration of COVID-19 data
+# Exploration of the COVID-19 Pandemic
 ## by Krishna Nadoor
 
 
 ## Dataset
 Two datasets were used for analysis.
 
-The first dataset provides data on the fatalities from COVID-19 across different countries. This dataset was provided by 'Our World In Data' - and is current as at 17/02/2020.
-
-https://github.com/owid/covid-19-data/tree/master/public/data
+The first dataset provides data on the fatalities from COVID-19 across different countries. This dataset was provided by '[Our World In Data](https://github.com/owid/covid-19-data/tree/master/public/data)' - and is current as at 17/02/2020.
 
 The second dataset provides data on the anti-pandemic measures taken by different governments. It's provided by ACAPS, which is a non-profit project that provides international, independent humanitarian analysis (according to Wikipedia) - and is current as at 10/12/2020.
 

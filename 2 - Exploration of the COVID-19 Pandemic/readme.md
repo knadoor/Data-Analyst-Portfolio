@@ -3,7 +3,7 @@
 ## Project Overview
 I wanted to explore how COVID-19 was impacting different countries and explore which anti-pandemic efforts have been effective in curbing its spread.
 
-## Dataset
+## Datasets
 Two datasets were used for analysis.
 
 The [first dataset](https://github.com/owid/covid-19-data/tree/master/public/data) provides data on the fatalities from COVID-19 across different countries. This dataset was provided by 'Our World In Data' - and is current as at 17/02/2020.

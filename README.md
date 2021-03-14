@@ -1,5 +1,5 @@
 # Data-Analyst-Portfolio
-This repository is for the projects I've done on the Udacity Data Analyst Nanodegree.
+This repository is for the projects I've done on the [Udacity Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002).
 
 The program prepares me for a career as a Data Analyst / Analytics professional by helping me learn:
 - Exploratory Data Analysis (EDA)

@@ -9,7 +9,7 @@ The [first dataset](https://github.com/owid/covid-19-data/tree/master/public/dat
 
 The [second dataset](https://www.acaps.org/covid-19-government-measures-dataset) provides data on the anti-pandemic measures taken by different governments. It's provided by ACAPS, which is a non-profit project that provides international, independent humanitarian analysis (according to Wikipedia) - and is current as at 10/12/2020.
 
-## Data wrangling steps prior to conducting analysis included:##
+## Data wrangling steps prior to conducting analysis included:
 * Renaming column headers 
 * Dropping unnecessary columns
 * Dropping duplicate rows
@@ -27,7 +27,6 @@ The [second dataset](https://www.acaps.org/covid-19-government-measures-dataset)
 
 
 ## Key Insights for Presentation
-
 The main threads for exploration in the presentation is investigating the severity of the COVID-19 pandemic and comparing the efforts of different governments in fighting it.
 
 A key insight found was that both the United States and India, even though they have higher deaths per million when compared with Australia, a person has a higher chance of surviving COVID-19 in these countries as per the statistics, because the case fatality rates (CFR) are much lower than Australia's.

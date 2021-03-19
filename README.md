@@ -9,4 +9,9 @@ The program prepares me for a career as a Data Analyst / Analytics professional 
 - SQL for Data Analysis
 - Data Visualization to draw meaningful conclusions
 
-Whilst I previously already have experience with Python, this course has prepared me to use Python for the purposes of Data Analysis and Visualization using libraries such as Numpy, Pandas, Matplotlib and Seaborn by building a series of projects.
+## Technical Skills utilized
+* Python
+* Data Analysis/Wrangling libraries (Numpy, Pandas)
+* Data Visualization libraries (Matplotlib, Seaborn)
+* Jupyter Notebooks
+* SQL
